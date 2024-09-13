@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/github_fpga/vga_driver/sim
+vtb_vga_controller
+Z1 !s110 1726129809
+!i10b 1
+!s100 `eW9gCYah5So7g4zI9[4m2
+I4_9RfKYTiHKfWEdQ7[h[<2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1726129443
+8E:/github_fpga/vga_driver/sim/tb_vga_controller.v
+FE:/github_fpga/vga_driver/sim/tb_vga_controller.v
+L0 3
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1726129809.000000
+!s107 E:/github_fpga/vga_driver/sim/tb_vga_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/github_fpga/vga_driver/sim/tb_vga_controller.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+vvga_controller
+R1
+!i10b 1
+!s100 lN323eFehhGG]oMEP[Ge43
+IWKSoQS304iGL`gZRR[>Bf3
+R2
+R0
+w1726129797
+8E:/github_fpga/vga_driver/src/vga_controller.v
+FE:/github_fpga/vga_driver/src/vga_controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/github_fpga/vga_driver/src/vga_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/github_fpga/vga_driver/src/vga_controller.v|
+!s101 -O0
+!i113 1
+R5
+R6
