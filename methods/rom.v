@@ -1,8 +1,8 @@
 // rom.v
 module rom #(
-    parameter ADDR_WIDTH = 15,
+    parameter ADDR_WIDTH = 17,
     parameter DATA_WIDTH = 8,
-	parameter DATA_DEPTH = 16000,
+	parameter DATA_DEPTH = 50000,
     parameter MEM_FILE = "image_data.dat"
 )(
     input wire clk,
